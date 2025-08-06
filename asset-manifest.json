@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.0484c8ea.css",
+    "main.js": "/developerFolio/static/js/main.6fe1e51b.js",
+    "static/css/64.bba8fa55.chunk.css": "/developerFolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/developerFolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/developerFolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/developerFolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/profile.png": "/developerFolio/static/media/profile.0419a912d28aaa30c905.png",
+    "static/media/python.png": "/developerFolio/static/media/python.98bb584be8fb97aed0fe.png",
+    "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/sonatrach.png": "/developerFolio/static/media/sonatrach.53d4cff1fbef51fd513d.png",
+    "static/media/pyth.png": "/developerFolio/static/media/pyth.d7a21d969a68b01c2b64.png",
+    "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/cisco.png": "/developerFolio/static/media/cisco.bc49c3e8ed3d3dee9488.png",
+    "static/media/machine.png": "/developerFolio/static/media/machine.2e124957463282ca1df2.png",
+    "static/media/powerBI.png": "/developerFolio/static/media/powerBI.2e03200e33206899afcf.png",
+    "static/media/security.png": "/developerFolio/static/media/security.f7a894e9b2d75b580c5a.png",
+    "static/media/azure-data-fundamentals.png": "/developerFolio/static/media/azure-data-fundamentals.2bf170778bbaf7da5655.png",
+    "static/media/AI.png": "/developerFolio/static/media/AI.5c3563ba51e135f5b1de.png",
+    "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/mangodb.png": "/developerFolio/static/media/mangodb.f9efb4cf07a7dc8a900d.png",
+    "static/media/Boumerdes.png": "/developerFolio/static/media/Boumerdes.14c09b34446737c3a55f.png",
+    "static/media/visualisation.png": "/developerFolio/static/media/visualisation.ae45278751941db1d3d4.png",
+    "static/media/UniSC.png": "/developerFolio/static/media/UniSC.788efd8929238f22925a.png",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/developerFolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/developerFolio/index.html",
+    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.0484c8ea.css.map": "/developerFolio/static/css/main.0484c8ea.css.map",
+    "main.6fe1e51b.js.map": "/developerFolio/static/js/main.6fe1e51b.js.map",
+    "64.bba8fa55.chunk.css.map": "/developerFolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/developerFolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/developerFolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/developerFolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0484c8ea.css",
+    "static/js/main.6fe1e51b.js"
+  ]
+}
