@@ -234,6 +234,22 @@ const bigProjects = {
       ]
     },
     {
+  image: require("./assets/images/ANZ.png"),
+  projectName: "Netball NZ Database",
+  projectDesc: "An interactive Shiny app that provides a structured database of Netball NZ teams, players, and matches with caching, filtering, and analytics features.",
+  footerLink: [
+    {
+      name: "GitHub Repo",
+      url: "https://github.com/Nouria99/Netball-NZ_Database"
+    },
+    {
+      name: "Live App",
+      url: "https://nouria99.shinyapps.io/netball-nz-database-version4/"
+    }
+  ]
+},
+
+    {
       image: require("./assets/images/power.png"),
       projectName: "Sales Dashboard (Power BI)",
       projectDesc: "Interactive Power BI dashboard for sales performance insights, customer segmentation, and regional analysis.",
